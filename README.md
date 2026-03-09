@@ -6,4 +6,6 @@
 
 # conditional format on salary greater than 15000
 ![](https://github.com/YGunashekar/conditional-formatting-in-excel-data-and-calculating-total-amount-using-function/blob/d4b2f038bed93bb07078876d0320b93884723096/Screenshot%202026-03-09%20130125.png)
+
+# sum of whole salary
 ![sum ](https://github.com/YGunashekar/conditional-formatting-in-excel-data-and-calculating-total-amount-using-function/blob/0430eaf1d026efba4fe48a8e91e0b4fd85c3ca9f/Screenshot%202026-03-09%20124204.png)
